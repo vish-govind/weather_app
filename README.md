@@ -1,3 +1,35 @@
+
+Screen Recording : 
+
+
+
+
+
+
+
+
+
+
+https://github.com/vish-govind/weather_app/assets/151743126/afddf823-4ea0-45c1-8337-e49fd3712d28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
